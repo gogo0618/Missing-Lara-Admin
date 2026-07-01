@@ -203,27 +203,7 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   <tr>
     <td width="50%">
       <strong>General Settings</strong><br/>
-      <img width="100%" alt="General Settings" src="/demo-screenshots/40-Settings-General.png"/>
-    </td>
-    <td width="50%">
-      <strong>Site Appearance</strong><br/>
-      <img width="100%" alt="Site Appearance" src="/demo-screenshots/41-Settings-Site-Appearance-Dark-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Content Settings</strong><br/>
-      <img width="100%" alt="Content Settings" src="/demo-screenshots/42-Settings-Content.png"/>
-    </td>
-    <td width="50%">
-      <strong>Integration Settings</strong><br/>
-      <img width="100%" alt="Integration Settings" src="/demo-screenshots/43-Settings-Integration.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Security Settings</strong><br/>
-      <img width="100%" alt="Security Settings" src="/demo-screenshots/44-Settings-Performance-Security.png"/>
+      <img width="100%" alt="General Settings" src="/Images_Demo/Settings.png"/>
     </td>
   </tr>
 </table>
