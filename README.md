@@ -213,12 +213,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 <table>
   <tr>
     <td width="50%">
-      <strong>Translations List (Light Mode)</strong><br/>
-      <img width="100%" alt="Translations List" src="/demo-screenshots/50-Translation-List-Lite-Mode.png" />
-    </td>
-    <td width="50%">
-      <strong>Translations List (Dark Mode)</strong><br/>
-      <img width="100%" alt="Translations List Dark" src="/demo-screenshots/51-Translation-List-Dark-Mode.png" />
+      <strong>Languages (Dark Mode)</strong><br/>
+      <img width="100%" alt="Languages" src="/Images_Demo/Lang.png" />
     </td>
   </tr>
 </table>
