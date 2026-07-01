@@ -241,17 +241,17 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
 </table>
 
-### 🔧 Other Pages / Sections / Tests
+### 🔧 Other Pages
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Custom Error Pages</strong><br/>
-      <img width="100%" alt="Custom Error Pages" src="/demo-screenshots/100-Custom-Error-Pages.png"/>
+      <strong>Cache</strong><br/>
+      <img width="100%" alt="Cache" src="/Images_Demo/Cache.png"/>
     </td>
     <td width="50%">
-      <strong>Post activity Chart</strong><br/>
-      <img width="100%" alt="Post activity Chart" src="/demo-screenshots/102-Post-activity-Chart.png"/>
+      <strong>Cron Scheduler</strong><br/>
+      <img width="100%" alt="Cron Scheduler" src="/Images_Demo/CRON.png"/>
     </td>
   </tr>
   <tr>
