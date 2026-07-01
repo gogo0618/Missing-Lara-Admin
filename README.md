@@ -303,8 +303,7 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 ## 🔗 Live Demo
 
 https://demo.missing-lara-admin.eu/admin
-| **Email** | `admin@admin.com` |
-| **Password** | `K@l1nka` |
+| **Email** | `admin@admin.com` | **Password** | `K@l1nka` |
 
 ## 🧰 Technology Stack
 
@@ -417,7 +416,7 @@ php artisan sail:install
 
 | Field | Value |
 |---|---|
-| **URL** | `(https://demo.missing-lara-admin.eu/admin)` |
+| **URL** | `https://demo.missing-lara-admin.eu/admin` |
 | **Email** | `admin@admin.com` |
 | **Password** | `K@l1nka` |
 
