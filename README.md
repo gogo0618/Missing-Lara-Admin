@@ -120,7 +120,348 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 | SiteLoad | ![Proxy](https://img.shields.io/badge/-Proxy-64748b?style=flat-square) | Embed external websites via local proxy |
 
 ---
+## 📸 Screenshots
 
+### 🔐 Login & Authentication
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Login Page</strong><br/>
+      <img width="100%" alt="Login Page" src="/demo-screenshots/00-Login-Page-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Forget Password Page (Dark Mode)</strong><br/>
+      <img width="100%" alt="Forget Password Page" src="/demo-screenshots/01-Forget-password.png"/>
+    </td>
+  </tr>
+</table>
+
+### 📊 Dashboard
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Dashboard (Light Mode)</strong><br/>
+      <img width="100%" alt="Dashboard Light Mode" src="/demo-screenshots/03-Dashboard-Page-lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Dashboard (Dark Mode)</strong><br/>
+      <img width="100%" alt="Dashboard Dark Mode" src="/demo-screenshots/04-Dashboard-Page-Dark-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Dashboard Collapsed Sidebar</strong><br/>
+      <img width="100%" alt="Dashboard Collapsed Sidebar" src="/demo-screenshots/04_1-Dashboard-Collapsed-Sidebar.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🔑 Role Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Role List (Light Mode)</strong><br/>
+      <img width="100%" alt="Role List" src="/demo-screenshots/05-Role-List-Lite.png"/>
+    </td>
+    <td width="50%">
+      <strong>Role List (Dark Mode)</strong><br/>
+      <img width="100%" alt="Role List Dark" src="/demo-screenshots/06-Role-List-Dark.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Role Create</strong><br/>
+      <img width="100%" alt="Role Create" src="/demo-screenshots/07-Role-Create.png"/>
+    </td>
+    <td width="50%">
+      <strong>Role Edit</strong><br/>
+      <img width="100%" alt="Role Edit" src="/demo-screenshots/08-Role-Edit.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Role Detail</strong><br/>
+      <img width="100%" alt="Role Detail" src="/demo-screenshots/08_1-Role-Detail-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Permission List</strong><br/>
+      <img width="100%" alt="Permission List" src="/demo-screenshots/09-Permissions-List-Lite-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Permission Detail</strong><br/>
+      <img width="100%" alt="Permission Detail" src="/demo-screenshots/09_1-Permission-Detail-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <!-- Reserved for future screenshot -->
+    </td>
+  </tr>
+</table>
+
+### 👥 User Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Users List (Light mode)</strong><br/>
+      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/10-User-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>User Create (Dark mode)</strong><br/>
+      <img width="100%" alt="User Create" src="/demo-screenshots/11-User-Create-Dark-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>User Detail</strong><br/>
+      <img width="100%" alt="User Detail" src="/demo-screenshots/12_1-User-Detail-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Profile Edit</strong><br/>
+      <img width="100%" alt="Profile Edit" src="/demo-screenshots/12-Profile-Edit-Lite-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>User Delete</strong><br/>
+      <img width="100%" alt="User Delete" src="/demo-screenshots/13-User-Delete-Lite-Mode.png" />
+    </td>
+    <td width="50%">
+      <!-- Reserved for future screenshot -->
+    </td>
+  </tr>
+</table>
+
+### 📝 Content Management - CMS
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Posts List</strong><br/>
+      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/31-Post-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Post Create</strong><br/>
+      <img width="100%" alt="Users List (Dark mode)" src="/demo-screenshots/30-Post-List-Dark-Mode.png" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Pages List</strong><br/>
+      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/38-Pages-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Page Edit</strong><br/>
+      <img width="100%" alt="Users List (Dark mode)" src="/demo-screenshots/39-Pages-Edit-Dark-Mode.png" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Category List & Create</strong><br/>
+      <img width="100%" alt="Category List & Create" src="/demo-screenshots/34-Category-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Category Edit</strong><br/>
+      <img width="100%" alt="Category Edit" src="/demo-screenshots/35-Category-Edit-Dark-Mode.png" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Tag List & Create</strong><br/>
+      <img width="100%" alt="Tag Create" src="/demo-screenshots/36-Tags-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Tag Edit</strong><br/>
+      <img width="100%" alt="Tag Delete" src="/demo-screenshots/37-Tags-Edit-Dark-Mode.png" />
+    </td>
+  </tr>
+</table>
+
+### 📁 Media Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Media List (Light Mode)</strong><br/>
+      <img width="100%" alt="Media List" src="/demo-screenshots/60-Media-List-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Media List (Dark Mode)</strong><br/>
+      <img width="100%" alt="Media List Dark" src="/demo-screenshots/61-Media-List-Dark-Mode.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🤖 AI Content Generation
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>AI Providers Settings</strong><br/>
+      <img width="100%" alt="AI Content Generation" src="/demo-screenshots/70-AI-Providers-Lite-Mode-Post.png"/>
+    </td>
+    <td width="50%">
+      <strong>AI Providers Settings</strong><br/>
+      <img width="100%" alt="Inline AI" src="/demo-screenshots/71-Inline-AI-Editor.png"/>
+    </td>
+  </tr>
+</table>
+
+### 📧 Email Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Email Connections</strong><br/>
+      <img width="100%" alt="Email Connections" src="/demo-screenshots/72-Email-Connections-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Email Templates</strong><br/>
+      <img width="100%" alt="Email Templates" src="/demo-screenshots/73-Email-Templates-Lite-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Email Template Create</strong><br/>
+      <img width="100%" alt="Email Template Create" src="/demo-screenshots/74-Email-Templates-Create-Dark-Mode.png"/>
+    </td>
+    <td width="50%">
+      <strong>Notifications Settings</strong><br/>
+      <img width="100%" alt="Notifications Settings" src="/demo-screenshots/75-Notifications-Lite-Mode.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🧩 Module Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Module List</strong><br/>
+      <img width="100%" alt="Module List" src="/demo-screenshots/14-Module-List.png"/>
+    </td>
+    <td width="50%">
+      <strong>Install Module</strong><br/>
+      <img width="100%" alt="Install Module" src="/demo-screenshots/15-Module-Install.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Module Detail</strong><br/>
+      <img width="100%" alt="Module Detail" src="/demo-screenshots/16-Module-Detail-Lite-Mode.png"/>
+    </td>
+    <td width="50%">
+      <!-- Reserved for future module screenshot -->
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Settings Pages
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>General Settings</strong><br/>
+      <img width="100%" alt="General Settings" src="/demo-screenshots/40-Settings-General.png"/>
+    </td>
+    <td width="50%">
+      <strong>Site Appearance</strong><br/>
+      <img width="100%" alt="Site Appearance" src="/demo-screenshots/41-Settings-Site-Appearance-Dark-Mode.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Content Settings</strong><br/>
+      <img width="100%" alt="Content Settings" src="/demo-screenshots/42-Settings-Content.png"/>
+    </td>
+    <td width="50%">
+      <strong>Integration Settings</strong><br/>
+      <img width="100%" alt="Integration Settings" src="/demo-screenshots/43-Settings-Integration.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Security Settings</strong><br/>
+      <img width="100%" alt="Security Settings" src="/demo-screenshots/44-Settings-Performance-Security.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Translations Pages
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Translations List (Light Mode)</strong><br/>
+      <img width="100%" alt="Translations List" src="/demo-screenshots/50-Translation-List-Lite-Mode.png" />
+    </td>
+    <td width="50%">
+      <strong>Translations List (Dark Mode)</strong><br/>
+      <img width="100%" alt="Translations List Dark" src="/demo-screenshots/51-Translation-List-Dark-Mode.png" />
+    </td>
+  </tr>
+</table>
+
+### 📊 Monitoring
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Action Logs</strong><br/>
+      <img width="100%" alt="Action Logs" src="/demo-screenshots/20-Action-Log-List.png"/>
+    </td>
+    <td width="50%">
+      <strong>Laravel Pulse</strong><br/>
+      <img width="100%" alt="Laravel Pulse" src="/demo-screenshots/91-Laravel-Pulse-Dashboard-for-Monitoring.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🧩 Rest API Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Rest API</strong><br/>
+      <img width="100%" alt="Rest API" src="/demo-screenshots/120-Rest-API-Documentation.png"/>
+    </td>
+    <td width="50%">
+      <strong>Rest API Login</strong><br/>
+      <img width="100%" alt="Rest API Login" src="/demo-screenshots/121-Rest-API-Login.png"/>
+    </td>
+  </tr>
+</table>
+
+### 🔧 Other Pages / Sections / Tests
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Custom Error Pages</strong><br/>
+      <img width="100%" alt="Custom Error Pages" src="/demo-screenshots/100-Custom-Error-Pages.png"/>
+    </td>
+    <td width="50%">
+      <strong>Post activity Chart</strong><br/>
+      <img width="100%" alt="Post activity Chart" src="/demo-screenshots/102-Post-activity-Chart.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Pest, Pint, Rector, PHPstan tests</strong><br/>
+      <img width="100%" alt="Pest, Pint, Rector, PHPstan tests" src="/demo-screenshots/103-Unit-Tests-Demo.png"/>
+    </td>
+  </tr>
+</table>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔗 Live Demo
+
+https://laradashboard.com/try-demo/
 ## 🧰 Technology Stack
 
 <div align="center">
