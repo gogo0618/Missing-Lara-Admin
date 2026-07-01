@@ -138,41 +138,12 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 <table>
   <tr>
     <td width="50%">
-      <strong>Role List (Light Mode)</strong><br/>
-      <img width="100%" alt="Role List" src="/demo-screenshots/05-Role-List-Lite.png"/>
-    </td>
-    <td width="50%">
-      <strong>Role List (Dark Mode)</strong><br/>
-      <img width="100%" alt="Role List Dark" src="/demo-screenshots/06-Role-List-Dark.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Role Create</strong><br/>
-      <img width="100%" alt="Role Create" src="/demo-screenshots/07-Role-Create.png"/>
-    </td>
-    <td width="50%">
-      <strong>Role Edit</strong><br/>
-      <img width="100%" alt="Role Edit" src="/demo-screenshots/08-Role-Edit.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <strong>Role Detail</strong><br/>
-      <img width="100%" alt="Role Detail" src="/demo-screenshots/08_1-Role-Detail-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
+      <img width="100%" alt="Role Detail" src="/Images_Demo/Role Permissions.png"/>
+    </td> </tr>
+    <tr><td width="50%">
       <strong>Permission List</strong><br/>
-      <img width="100%" alt="Permission List" src="/demo-screenshots/09-Permissions-List-Lite-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Permission Detail</strong><br/>
-      <img width="100%" alt="Permission Detail" src="/demo-screenshots/09_1-Permission-Detail-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <!-- Reserved for future screenshot -->
+      <img width="100%" alt="Permission List" src="/Images_Demo/Permissions.png"/>
     </td>
   </tr>
 </table>
