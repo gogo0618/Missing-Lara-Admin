@@ -248,8 +248,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
     <td width="50%">
       <strong>Cache</strong><br/>
       <img width="100%" alt="Cache" src="/Images_Demo/Cache.png"/>
-    </td>
-    <td width="50%">
+    </td></tr>
+    <tr><td width="50%">
       <strong>Cron Scheduler</strong><br/>
       <img width="100%" alt="Cron Scheduler" src="/Images_Demo/CRON.png"/>
     </td>
