@@ -260,6 +260,12 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
       <img width="100%" alt="Documized" src="/Images_Demo/Documized.png"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>CSS ENV Editor</strong><br/>
+      <img width="100%" alt="CSS ENV Editor" src="/Images_Demo/Edito CSS Env.png"/>
+    </td>
+  </tr>
 </table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
