@@ -180,12 +180,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 <table>
   <tr>
     <td width="50%">
-      <strong>Media List (Light Mode)</strong><br/>
-      <img width="100%" alt="Media List" src="/demo-screenshots/60-Media-List-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Media List (Dark Mode)</strong><br/>
-      <img width="100%" alt="Media List Dark" src="/demo-screenshots/61-Media-List-Dark-Mode.png"/>
+      <strong>Media Manage (Dark Mode)</strong><br/>
+      <img width="100%" alt="Media Manage Dark" src="/Images_Demo/Media.png"/>
     </td>
   </tr>
 </table>
