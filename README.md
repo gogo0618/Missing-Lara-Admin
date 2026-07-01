@@ -148,13 +148,13 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
 </table>
 
-### 👥 User Management
+### 👥 Routes Management
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Users List (Light mode)</strong><br/>
-      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/10-User-List-Lite-Mode.png"/>
+      <strong>Routes List (Dark mode)</strong><br/>
+      <img width="100%" alt="Routes List (Dark mode)" src="/Images_Demo/Routes.png"/>
     </td>
 </table>
 
