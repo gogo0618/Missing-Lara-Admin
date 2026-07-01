@@ -256,8 +256,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
   <tr>
     <td width="50%">
-      <strong>Pest, Pint, Rector, PHPstan tests</strong><br/>
-      <img width="100%" alt="Pest, Pint, Rector, PHPstan tests" src="/demo-screenshots/103-Unit-Tests-Demo.png"/>
+      <strong>Documized</strong><br/>
+      <img width="100%" alt="Documized" src="/demo-screenshots/Documized.png"/>
     </td>
   </tr>
 </table>
@@ -266,7 +266,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 
 ## 🔗 Live Demo
 
-https://laradashboard.com/try-demo/
+https://demo.missing-lara-admin.eu/admin
+
 ## 🧰 Technology Stack
 
 <div align="center">
