@@ -186,66 +186,13 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
 </table>
 
-### 🤖 AI Content Generation
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>AI Providers Settings</strong><br/>
-      <img width="100%" alt="AI Content Generation" src="/demo-screenshots/70-AI-Providers-Lite-Mode-Post.png"/>
-    </td>
-    <td width="50%">
-      <strong>AI Providers Settings</strong><br/>
-      <img width="100%" alt="Inline AI" src="/demo-screenshots/71-Inline-AI-Editor.png"/>
-    </td>
-  </tr>
-</table>
-
-### 📧 Email Management
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Email Connections</strong><br/>
-      <img width="100%" alt="Email Connections" src="/demo-screenshots/72-Email-Connections-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Email Templates</strong><br/>
-      <img width="100%" alt="Email Templates" src="/demo-screenshots/73-Email-Templates-Lite-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Email Template Create</strong><br/>
-      <img width="100%" alt="Email Template Create" src="/demo-screenshots/74-Email-Templates-Create-Dark-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Notifications Settings</strong><br/>
-      <img width="100%" alt="Notifications Settings" src="/demo-screenshots/75-Notifications-Lite-Mode.png"/>
-    </td>
-  </tr>
-</table>
-
 ### 🧩 Module Management
 
 <table>
   <tr>
     <td width="50%">
       <strong>Module List</strong><br/>
-      <img width="100%" alt="Module List" src="/demo-screenshots/14-Module-List.png"/>
-    </td>
-    <td width="50%">
-      <strong>Install Module</strong><br/>
-      <img width="100%" alt="Install Module" src="/demo-screenshots/15-Module-Install.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Module Detail</strong><br/>
-      <img width="100%" alt="Module Detail" src="/demo-screenshots/16-Module-Detail-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <!-- Reserved for future module screenshot -->
+      <img width="100%" alt="Module List" src="/Images_Demo/Module Manager.png"/>
     </td>
   </tr>
 </table>
