@@ -230,17 +230,13 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
 </table>
 
-### 🧩 Rest API Management
+### 🧩 Backup Management
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Rest API</strong><br/>
-      <img width="100%" alt="Rest API" src="/demo-screenshots/120-Rest-API-Documentation.png"/>
-    </td>
-    <td width="50%">
-      <strong>Rest API Login</strong><br/>
-      <img width="100%" alt="Rest API Login" src="/demo-screenshots/121-Rest-API-Login.png"/>
+      <strong>Backups</strong><br/>
+      <img width="100%" alt="Backups" src="/Images_Demo/Backups.png"/>
     </td>
   </tr>
 </table>
