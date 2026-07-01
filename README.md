@@ -219,17 +219,13 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   </tr>
 </table>
 
-### 📊 Monitoring
+### 📊 Dash Widgets
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Action Logs</strong><br/>
-      <img width="100%" alt="Action Logs" src="/demo-screenshots/20-Action-Log-List.png"/>
-    </td>
-    <td width="50%">
-      <strong>Laravel Pulse</strong><br/>
-      <img width="100%" alt="Laravel Pulse" src="/demo-screenshots/91-Laravel-Pulse-Dashboard-for-Monitoring.png"/>
+      <strong>Dash Widgets</strong><br/>
+      <img width="100%" alt="Dash Widgets" src="/Images_Demo/Dash widgets.png"/>
     </td>
   </tr>
 </table>
