@@ -156,30 +156,6 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
       <strong>Users List (Light mode)</strong><br/>
       <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/10-User-List-Lite-Mode.png"/>
     </td>
-    <td width="50%">
-      <strong>User Create (Dark mode)</strong><br/>
-      <img width="100%" alt="User Create" src="/demo-screenshots/11-User-Create-Dark-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>User Detail</strong><br/>
-      <img width="100%" alt="User Detail" src="/demo-screenshots/12_1-User-Detail-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Profile Edit</strong><br/>
-      <img width="100%" alt="Profile Edit" src="/demo-screenshots/12-Profile-Edit-Lite-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>User Delete</strong><br/>
-      <img width="100%" alt="User Delete" src="/demo-screenshots/13-User-Delete-Lite-Mode.png" />
-    </td>
-    <td width="50%">
-      <!-- Reserved for future screenshot -->
-    </td>
-  </tr>
 </table>
 
 ### 📝 Content Management - CMS
@@ -187,42 +163,8 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 <table>
   <tr>
     <td width="50%">
-      <strong>Posts List</strong><br/>
-      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/31-Post-List-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Post Create</strong><br/>
-      <img width="100%" alt="Users List (Dark mode)" src="/demo-screenshots/30-Post-List-Dark-Mode.png" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Pages List</strong><br/>
-      <img width="100%" alt="Users List (Light mode)" src="/demo-screenshots/38-Pages-List-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Page Edit</strong><br/>
-      <img width="100%" alt="Users List (Dark mode)" src="/demo-screenshots/39-Pages-Edit-Dark-Mode.png" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Category List & Create</strong><br/>
-      <img width="100%" alt="Category List & Create" src="/demo-screenshots/34-Category-List-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Category Edit</strong><br/>
-      <img width="100%" alt="Category Edit" src="/demo-screenshots/35-Category-Edit-Dark-Mode.png" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Tag List & Create</strong><br/>
-      <img width="100%" alt="Tag Create" src="/demo-screenshots/36-Tags-List-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Tag Edit</strong><br/>
-      <img width="100%" alt="Tag Delete" src="/demo-screenshots/37-Tags-Edit-Dark-Mode.png" />
+      <strong>CMS Pages</strong><br/>
+      <img width="100%" alt="CMS Pages (Dark mode)" src="/Images_Demo/CMS.png"/>
     </td>
   </tr>
 </table>
