@@ -122,38 +122,13 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
 ---
 ## 📸 Screenshots
 
-### 🔐 Login & Authentication
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Login Page</strong><br/>
-      <img width="100%" alt="Login Page" src="/demo-screenshots/00-Login-Page-Lite-Mode.png"/>
-    </td>
-    <td width="50%">
-      <strong>Forget Password Page (Dark Mode)</strong><br/>
-      <img width="100%" alt="Forget Password Page" src="/demo-screenshots/01-Forget-password.png"/>
-    </td>
-  </tr>
-</table>
-
 ### 📊 Dashboard
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Dashboard (Light Mode)</strong><br/>
-      <img width="100%" alt="Dashboard Light Mode" src="/demo-screenshots/03-Dashboard-Page-lite-Mode.png"/>
-    </td>
-    <td width="50%">
       <strong>Dashboard (Dark Mode)</strong><br/>
-      <img width="100%" alt="Dashboard Dark Mode" src="/demo-screenshots/04-Dashboard-Page-Dark-Mode.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Dashboard Collapsed Sidebar</strong><br/>
-      <img width="100%" alt="Dashboard Collapsed Sidebar" src="/demo-screenshots/04_1-Dashboard-Collapsed-Sidebar.png"/>
+      <img width="100%" alt="Dashboard Light Mode" src="/Images_Demo/Dashboard.png"/>
     </td>
   </tr>
 </table>
