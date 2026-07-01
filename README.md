@@ -257,7 +257,7 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
   <tr>
     <td width="50%">
       <strong>Documized</strong><br/>
-      <img width="100%" alt="Documized" src="/demo-screenshots/Documized.png"/>
+      <img width="100%" alt="Documized" src="/Images_Demo/Documized.png"/>
     </td>
   </tr>
 </table>
