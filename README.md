@@ -167,6 +167,12 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
       <img width="100%" alt="CMS Pages (Dark mode)" src="/Images_Demo/CMS.png"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>Edit Page</strong><br/>
+      <img width="100%" alt="Edit Page (Dark mode)" src="/Images_Demo/Page_Edit.png"/>
+    </td>
+  </tr>
 </table>
 
 ### 📁 Media Management
