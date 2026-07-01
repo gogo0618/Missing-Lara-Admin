@@ -2,7 +2,7 @@
   <br/>
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"/>
   <br/><br/>
-  <h1>🚀 LaraAdmin Panel</h1>
+  <h1>🚀 Missing Lara Admin Panel</h1>
   <p><strong>A modular, enterprise-grade administration panel built on Laravel 12</strong></p>
   <p>40+ modules · Full-stack management · Self-hosted</p>
   <br/>
