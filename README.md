@@ -278,6 +278,24 @@ LaraAdmin Panel is a **self-hosted, all-in-one business management platform** th
       <img width="100%" alt="LDAP" src="/Images_Demo/LDAP.png"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>Menu Manager</strong><br/>
+      <img width="100%" alt="Menu Manager" src="/Images_Demo/Menu Manager.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Pass Manager</strong><br/>
+      <img width="100%" alt="Pass Manager" src="/Images_Demo/Pass Manager.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Tickets</strong><br/>
+      <img width="100%" alt="Tickets" src="/Images_Demo/Tickets.png"/>
+    </td>
+  </tr>
 </table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
